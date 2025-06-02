@@ -6,7 +6,7 @@ I work at the intersection of **AI**, **markets**, and **strategy**—building t
  
 🧠 **Current Focus**  
 - Time Series Forecasting (Equity Market X Macro Economics) 
-- Revenue Prediction Impact  (Sales Volume, Dynamic Pricing,Campaign ROI, Trend Affects & Seasonilty Impacts)
+- Revenue Prediction Impact  (Dynamic Pricing,Campaign ROI, Trend Affects & Seasonilty Impacts)
   Niche Focus on: Foreign Direct Investment & Go to Market design & Strategy 
 ---
 
